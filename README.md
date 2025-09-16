@@ -3,4 +3,4 @@ nyoba komputasi pertama
 ** Komputasi **
 ## Hello ##
 'Hai'
-'Hai'
+'Hai yosi suki'
